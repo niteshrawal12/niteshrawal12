@@ -1,6 +1,6 @@
 ### Hi there, I'm Nitesh Rawal  👋
 
-[![Website](https://img.shields.io/website?label=niteshrawal&style=for-the-badge&url=https%3A%2F%2Fniteshrawal)](https://github.com/niteshrawal12/niteshrawal12)
+[![Website](https://img.shields.io/website?label=niteshrawal&style=for-the-badge&url=https%3A%2F%2Fniteshrawal)](https://niteshrawal12.github.io/niteshrawal12/)
 
 
 ## I'm a Currently Pursuing Final Year in Master of Computer Apllications from UNIVERSITY OF HYDERABAD !!!
