@@ -2,9 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=niteshrawal&style=for-the-badge&url=https%3A%2F%2Fniteshrawal)](https://niteshrawal12.github.io/niteshrawal12/)
 
-
-## I'm a Currently Pursuing Final Year in Master of Computer Apllications from UNIVERSITY OF HYDERABAD !!!
-
 - 🔭 Currently seeking full time opportunities to utilize skills and come up with some productive output for the organisation.
 - 🌱 As a computer science student, I've worked on several projects both academic as well as for self-learning in multiple technologies Such as Machine learning , artificial intelligence, web development, standalone application development and database. 
 - 👯 As an ambitious and hardworking individual, I am often recognized for my commitment and ability. Eager to learn new technologies & i'm a Keen Learner ,Team Player.
