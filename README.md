@@ -5,11 +5,11 @@
 
 ## I'm a Currently Pursuing Final Year in Master of Computer Apllications from UNIVERSITY OF HYDERABAD !!!
 
-- 🔭 Currently seeking internships and full time opportunities to utilize skills and come up with some productive output for the organisation.
-- 🌱 As a computer science student, I've worked on several projects both academic as well as for self-learning in multiple technologies Such as Machine 			learning , artificial intelligence, web development, standalone application development and database. 
-- 👯 As an ambitious and hardworking individual, I am often recognized for my commitment and ability. Eager to learn new technologies and i'm a Keen Learner 			and Team Player.
+- 🔭 Currently seeking full time opportunities to utilize skills and come up with some productive output for the organisation.
+- 🌱 As a computer science student, I've worked on several projects both academic as well as for self-learning in multiple technologies Such as Machine learning , artificial intelligence, web development, standalone application development and database. 
+- 👯 As an ambitious and hardworking individual, I am often recognized for my commitment and ability. Eager to learn new technologies & i'm a Keen Learner ,Team Player.
 - 🥅 Here are some of the languages and technologies that I've been working on while developing academic & self- learning project
-c, c++ , java , python  , machine learning , html , css , javascript , php , sql , Git , Artificial Intelligence , Blockchain , Image Processing.
+c, c++ , java , python,html , css , javascript, Reactjs, php , sql,Machine Learning, NLP, Artificial Intelligence , Blockchain , Image Processing.
 - ⚡ Fun fact: I love to play cricket and live young & free in gym workouts.
 
 
